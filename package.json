@@ -10,7 +10,7 @@
     "format": "prettier --write 'src/**/*.{js,jsx,ts,tsx,css,json}'"
   },
   "devDependencies": {
-    "@babel/core": "7.7.4",
+    "@babel/core": "7.7.5",
     "@babel/plugin-proposal-object-rest-spread": "7.7.4",
     "babel-loader": "8.0.6",
     "create-file-webpack": "1.0.2",
